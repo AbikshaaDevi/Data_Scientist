@@ -25,7 +25,7 @@ Supervised learning uses labeled data to train models for predictions. It is div
 
 - **Linear Regression** – [Linear Regression Repo](https://github.com/AbikshaaDevi/House_Price_Prediction)  
 - **Ridge Regression** – [Ridge Regression Repo](https://github.com/AbikshaaDevi/Movie_Revenue_Prediction)  
-- **Lasso Regression** – [Lasso Regression Repo](https://github.com/AbikshaaDevi/Crop_Recommendation)  
+- **Lasso Regression** – [Lasso Regression Repo](https://github.com/AbikshaaDevi/Crop_Yield_Prediction)  
 - **Elastic Net Regression** – [Elastic Net Repo](https://github.com/AbikshaaDevi/Medical_Insurance_Prediction)
 
 ---
